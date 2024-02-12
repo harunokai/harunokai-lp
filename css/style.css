@@ -95,6 +95,7 @@ section#header {
 
 nav {
 	float: right;
+	height: 100%;
 	width: 60%;
 	text-align: right;
 	margin-right: 0%;
@@ -102,6 +103,8 @@ nav {
 }
 
 section#header nav ul {
+	height: 100%;
+	margin: auto;
 	list-style: none;
 	display: flex;
 	align-items: center;
@@ -506,6 +509,11 @@ h2 {
 	color: black;
 	padding-left: 50px;
 	padding-top: 55px;
+}
+
+.staff .concept_wrapper {
+	padding-bottom: 20px;
+	border-bottom: 1px solid #bebebe;
 }
 
 
@@ -1007,7 +1015,6 @@ footer {
 
 	section#header nav ul {
 		padding-left: 0px;
-		margin-top: 5px;
 	}
 
 	section#header nav ul li {

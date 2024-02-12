@@ -919,13 +919,15 @@ footer .footer_column p {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	background-color: #717070;
 	color: #FFFFFF;
 	text-transform: uppercase;
 	font-weight: lighter;
 	letter-spacing: 2px;
 	border-top-width: 2px;
 	font-family: source-sans-pro;
+	background-image: url(../images/onsen.png);
+	background-size: cover;
+	background-position: bottom;
 }
 
 .footer_banner {

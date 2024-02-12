@@ -122,7 +122,6 @@ nav ul li {
 	text-align: left;
 	margin-right: 25px;
 	letter-spacing: 2px;
-	font-weight: bold;
 	transition: all 0.3s linear;
 }
 
@@ -674,15 +673,12 @@ footer .footer_column p {
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	color: #FFFFFF;
+	color: #000000;
 	text-transform: uppercase;
-	font-weight: lighter;
 	letter-spacing: 2px;
 	border-top-width: 2px;
-	font-family: source-sans-pro;
-	background-image: url(../images/onsen.png);
-	background-size: cover;
-	background-position: bottom;
+	/* background-color: #black; */
+	/* background-position: bottom; */
 }
 
 .footer_banner {

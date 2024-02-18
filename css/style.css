@@ -608,6 +608,23 @@ h2 {
 	margin: auto;
 }
 
+.schedule_table b {
+	font-weight: bold;
+}
+
+.schedule_table .memo {
+	margin-top: 20px;
+	margin-left: -25%;
+	padding: 16px 24px;
+	border-radius: 16px;
+	background-color: #f2f2f2;
+}
+
+.schedule_table span {
+	font-weight: bold;
+	color: #bebebe;
+}
+
 footer {
 	background-color: #FFFFFF;
 	padding-bottom: 35px;

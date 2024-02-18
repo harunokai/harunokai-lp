@@ -4,6 +4,12 @@ html {
 	overflow-x: hidden;
 }
 
+a {
+	color: #333333;
+	text-decoration: none;
+	font-weight: bold;
+}
+
 .content-wrapper h2 {
 	font-size: 30px;
 	text-align: center;
